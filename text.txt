@@ -1,0 +1,11 @@
+git add
+    git add file name
+    git add .
+git commit
+    git commit -m " "
+git push
+ls
+ls -a
+git status
+git init
+git restore
